@@ -11,8 +11,12 @@ nav{
     justify-content: space-between;
     z-index: 10;
 }
+nav span{
+    margin-right: 300px;
+}
 .logo{
-    width: 100px;
+    width: 80px;
+    margin-top: 9px;
 }
 nav ul li{ 
     display: inline-block;
@@ -34,4 +38,9 @@ nav ul li{
 .btn:hover{
     background: #121212;
     color: #fff
+}
+.dark-nav{
+    background: #212ea0;
+    transition: 0.5s;
+    opacity: 0.8;
 }
