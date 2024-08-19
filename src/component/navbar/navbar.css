@@ -12,7 +12,7 @@ nav{
     z-index: 10;
 }
 nav span{
-    margin-right: 300px;
+    padding-right: 300px;
 }
 .logo{
     width: 80px;

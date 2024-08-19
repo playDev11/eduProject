@@ -10,7 +10,7 @@
 
 }
 .about:hover{
-    box-shadow: 4px 5px 10px #222ea0;
+    box-shadow: 0 0 20px #222ea0;
     transition: 0.5s;
 }
 .about-left{
