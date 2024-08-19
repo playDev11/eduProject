@@ -1,8 +1,15 @@
 import React from 'react'
+import './footer.css'
 
 const Footer = () => {
   return (
-    <div>footer</div>
+    <div className="footer">
+        <p>2024 Veru University. All rights reserved</p>
+        <ul>
+            <li>Terms of Service</li>
+            <li>Privacy Policy</li>
+        </ul>
+    </div>
   )
 }
 
