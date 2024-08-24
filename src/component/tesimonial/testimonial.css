@@ -40,3 +40,41 @@
     color: #676767;
     line-height: 1.4;
 }
+
+/* media-query */
+
+@media (max-width:800px){
+    .testimonial{
+        padding: 0 40px;
+    }
+    .next-btn, .back-btn{
+        padding: 10px;
+        width: 35px;
+    }
+    .testimonial ul li{
+        padding: 10px;
+    }
+    .slide{
+        padding: 10px;
+
+    }
+    .slide img{
+        width: 50px;
+    }
+}
+@media (max-width: 600px){
+    .testimonial{
+        padding: 0px 0px;
+    }
+    .user-info{
+        display: block;
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+    .user-info h3{
+        font-size: 16px;
+    }
+    .slide p{
+        font-size: 12px;
+    }
+}

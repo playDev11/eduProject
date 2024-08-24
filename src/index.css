@@ -17,3 +17,12 @@ a{
     padding-left: 10%;
     padding-right: 10%;
 }
+
+/* media query */
+
+@media (max-width: 1200px){
+    .container{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}

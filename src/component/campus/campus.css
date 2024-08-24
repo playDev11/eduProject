@@ -20,3 +20,16 @@
     transform: scale(1.05);
     transition: 1s;
 }
+/* media query */
+
+@media (max-width: 900px){
+    .gallery{
+        /* flex-direction: column; */
+        flex-wrap: wrap;
+    }
+    .gallery img{
+        flex-basis: 100%;
+        margin: 20px;
+        width: 40%;
+    }
+}
