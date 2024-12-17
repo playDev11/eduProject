@@ -38,7 +38,7 @@ const Testimonial = () => {
                         <span>Washington DC, USA</span>
                         </div>
                      <p>
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla quisquam qui nemo exercitationem magni eius excepturi incidunt sequi non sit accusantium fugit in voluptates deleniti neque, earum enim saepe necessitatibus obcaecati harum tempore inventore. Cum!
+                        Loremji ipsum dolor sit amet consectetur, adipisicing elit. Nulla quisquam qui nemo exercitationem magni eius excepturi incidunt sequi non sit accusantium fugit in voluptates deleniti neque, earum enim saepe necessitatibus obcaecati harum tempore inventore. Cum!
                      </p>
                     </div>
                 </li>

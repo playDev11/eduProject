@@ -4,7 +4,7 @@ import './footer.css'
 const Footer = () => {
   return (
     <div className="footer">
-        <p>2024 Veru University. All rights reserved</p>
+        <p>2024 Verubv University. All rights reserved</p>
         <ul>
             <li>Terms of Service</li>
             <li>Privacy Policy</li>
