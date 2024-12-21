@@ -12,7 +12,7 @@ import Footer from './component/footer/footer'
 const App = () => {
   return (
     <div>
-        {/* <Navbar/> */}
+        <Navbar/>
         <Hero/>
         <div className="container">
           <Title subTitle ='Our Program' title ='What We Offer'/>
